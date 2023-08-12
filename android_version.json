@@ -7,10 +7,10 @@
             "version": 10001,
             "version_name": "1.0.1",
             "scripts": {
-            "is_debug": 1,
-            "version": 10001,
-            "version_name": "1.0.1"
-        }
+                "is_debug": 1,
+                "version": 10001,
+                "version_name": "1.0.1"
+            }
         }
     }
 }
